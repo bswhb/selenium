@@ -1,3 +1,14 @@
+4.10.0 (Unreleased)
+=========================
+Ruby:
+  * Implement proxy support for Selenium Manager
+
+BiDi:
+  * Released selenium-devtools 0.114.0 (supports CDP v85, v112, v113, v114)
+
+Edge:
+  * Add support for webview2
+
 4.9.1 (2023-05-08)
 =========================
 Ruby:
